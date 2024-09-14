@@ -1,4 +1,4 @@
-# Andrea Mesa Website - Fictitious Business Management
+# Andrea Mesa Website - Business Management
 
 ## Descripción
 
